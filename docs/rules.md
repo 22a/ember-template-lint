@@ -16,6 +16,7 @@
 * [no-args-paths](rule/no-args-paths.md)
 * [no-bare-strings](rule/no-bare-strings.md)
 * [no-debugger](rule/no-debugger.md)
+* [no-forbidden-elements](rule/no-forbidden-elements.md)
 * [no-curly-component-invocation](rule/no-curly-component-invocation.md)
 * [no-duplicate-attributes](rule/no-duplicate-attributes.md)
 * [no-element-event-actions](rule/no-element-event-actions.md)
